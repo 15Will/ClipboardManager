@@ -1,0 +1,23 @@
+# Ignore binary and build files
+bin/
+obj/
+*.exe
+*.dll
+*.out
+*.so
+*.resx
+*.user
+
+# Ignore dependency folders
+node_modules/
+vendor/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and cache
+logs/
+*.log
+__pycache__/
+
